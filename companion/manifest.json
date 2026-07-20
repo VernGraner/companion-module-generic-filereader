@@ -5,8 +5,8 @@
 	"description": "Opens a local file and pulls the contents into a variable for processing.",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-generic-filereader.git",
-	"bugs": "https://github.com/bitfocus/companion-module-generic-filereader/issues",
+	"repository": "git+https://github.com/VernGraner/companion-module-generic-filereader.git",
+	"bugs": "https://github.com/VernGraner/companion-module-generic-filereader/issues",
 	"maintainers": [
 		{
 			"name": "Joseph Adams",

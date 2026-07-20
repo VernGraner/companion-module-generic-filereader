@@ -3,3 +3,17 @@ node_modules/
 package-lock.json
 /pkg
 /pkg.tgz
+/*.tgz
+/generic-filereader-*
+
+# Local secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+secrets.yaml
+options.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.companionconfig

@@ -1,7 +1,21 @@
 # companion-module-generic-filereader
 See [HELP.md](./HELP.md) and [LICENSE](./LICENSE)
 
+## Installing a beta release
+
+Download the `generic-filereader-<version>.tgz` file from this repository's
+[Releases](https://github.com/VernGraner/companion-module-generic-filereader/releases)
+page. In Companion, open **Modules**, import the module package, and then select
+the imported/developer version for the Generic File Reader connection.
+
+Release packages are built automatically whenever a version tag beginning with
+`v` is pushed.
+
 ## Version History
+
+### 2.2.2-beta.1 (2026-07-16)
+* Feature: Allow Companion variables in the configured file path
+* Fix: Resolve variables in the configured path when reading a specific line
 
 ### 2.2.1 (2025-06-26)
 * Bugfix: Read File Now action was not updating the module variables
