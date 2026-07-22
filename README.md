@@ -1,3 +1,5 @@
+> **PLEASE NOTE:** This code was created by Codex as directed by me as I am exploring what AI coding can do. This is an internal experiment, development and learning project. It is NOT intended to be used for any purpose other than my personal systems and projects I am currently experimenting with locally. Use at your own risk!
+
 # companion-module-generic-filereader
 See [HELP.md](./HELP.md) and [LICENSE](./LICENSE)
 
