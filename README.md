@@ -13,6 +13,11 @@ Release packages are built automatically whenever a version tag beginning with
 
 ## Version History
 
+### 2.2.2-beta.2 (2026-07-21)
+* Fix: Continue polling after a configured file path becomes unavailable
+* Fix: Automatically restore the connection status when the file becomes available again
+* Fix: Replace the existing polling timer when file reading is restarted
+
 ### 2.2.2-beta.1 (2026-07-16)
 * Feature: Allow Companion variables in the configured file path
 * Fix: Resolve variables in the configured path when reading a specific line
